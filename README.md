@@ -1,2 +1,2 @@
 # OyAC
-Computer organization and architecture projects.
+Proyectos de Organizacion y Arquitectura de Computadoras.
